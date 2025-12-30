@@ -237,7 +237,7 @@ const Hero = ({ setActiveSection, isDarkMode, setIsDarkMode }) => {
               </svg>
             </a>
             <a
-              href="https://drive.google.com/file/d/1Yucas8we7voBrpmYYKVGBBcM8isjPWwj/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZpmL8gk90Qjzv_jlqBIBxxZOxCp-UXvg/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-primary text-white rounded-lg hover:bg-secondary transition-all duration-300"
